@@ -1,0 +1,1 @@
+der incoming ordner ist für zeug von dem ich nicht weiss wo es hingehört, z.B. der QR Coder der auf eine noch nicht existierende markdown-wikiseite hier auf github.com verweist, in welcher die metaspielregeln erklärt werden
