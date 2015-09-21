@@ -1,0 +1,14 @@
+Titel: Advanced Strategic Command
+Spieler: 1-2
+Technik: 2D
+Auflösung mindestens: 
+Sprachen: C++, Lua, LibCurl
+Art: 2D
+Lizenz: GPL
+Genre: rundenbasierte Hexfeld-Taktik
+Website: http://www.asc-hq.org/
+seit: 2013
+status: 2.6
+Mithelfen: Documentation, Unit Description, Maps
+
+Advanced Strategic Command ist ein Nachbau des Hexfeld-Rundentaktik Klassikers "Battle Isle". Zwei militärisch hochgerüstete Gegner verschieben rundenweise ihre Armee-Einheiten (Panzer, Infanterie, Flieger etc.), der Ausgang der Kämpfe hängt stark von den Attributen der jeweiligen Einheiten ab und von deren Position zueinander (umzingelt etc.).
