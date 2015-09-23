@@ -1,0 +1,12 @@
+Titel: open clonk
+Spieler: 1-16?
+Technik: 2D
+Sprachen: 
+Lizenz: Code: ICS, media: cc-by
+Genre: Action
+Website: http://www.openclonk.org/
+seit: 2010
+Status: 6.1
+Mithelfen: Spiele bauen, zeichnen, programmieren
+
+OpenClonk ist die freie Version des ehemals kommerziellen Spiels Clonk. OpenClonk ist eine sogenannte Spiele-Engine mit eingebauter 2D-Physik, in welcher verschiedenste Action Spiele möglich sind. OpenClonk besticht durch schöne, handgezeichnete Grafiken und eine eifrige Community, welche ständig neue Maps und Spielvarianten erstellt.
