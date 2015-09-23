@@ -1,0 +1,12 @@
+Titel: Pingus
+Spieler: 1
+Technik: 2D
+Sprachen:  ?, SDL
+Lizenz: Code: GPL
+Genre: Denkspiel
+Website: http://pingus.seul.org/
+seit: 2011
+Status: 0.7
+Mithelfen: 
+
+Pinugus ist ein freier Nachbau des Amiga-Klassikers "Lemmings" von 1991. Der Spieler muss dafür sorgen dass ein Mindestanzahl kleiner Pinguine zum Ausgang findet. Er kann eine begrenzte Anzahl von Spezialfähigkeiten an einzelne Pinguine verteilen, z.B. Bohrmaschinen um Tunnel zu graben oder Stopp-Schilder um Pinguine umzuleiten. 

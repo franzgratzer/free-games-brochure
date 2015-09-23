@@ -1,0 +1,12 @@
+Titel: Pacman
+Spieler: 1
+Technik: 2D
+Sprachen: C++, SDL
+Lizenz: Code: GPL
+Genre: Action
+Website: https://github.com/ebuc99/pacman
+seit: 2015
+Status: 0.7
+Mithelfen: 
+
+Pacman ist ein möglichst orginalgetreuer Nachbau des gleichnamigen Spielhallenautomaten von 1980. Steuere den Spieler durch ein Labyrinth, 
