@@ -1,0 +1,12 @@
+Titel: Torcs
+Spieler: 1
+Technik: 3D
+Sprachen: C++
+Lizenz: Code: GPL 
+Genre: Rennspiel, Simulation
+Website: http://torcs.sourceforge.net/
+seit: 2004
+Status: 1.3.6
+
+
+Gedacht als Open Car Racing Simulator bietet Torcs eine physikalisch hochdetaillierte Autorenn-Simulation gegen comptuergesteuerte Gegner. Ein Multiplayer-Netzwerkmodus ist erst in Entwicklung, währenddessen programmieren die Fans Bots für Torcs welche weltweit gegeinander um die Wette fahren. Torcs wurde dank seiner Offenheit von der Automobil-Forschung entdeckt und wird u.a. für Forschungsprojekte im Bereich Self-Driving Vehicles eingesetzt.

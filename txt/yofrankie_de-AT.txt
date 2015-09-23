@@ -1,0 +1,12 @@
+Titel: Yo Frankie!
+Spieler: 1
+Technik: 2D 
+Sprachen: Blender, CrystalSpace
+Lizenz: Code: GPL Art: CC-BY
+Genre: 3D Plattform
+Website: http://xmoto.tuxfamily.org/
+seit: 2008
+Status: 1.1
+Mithelfen: Blender, 3D-Modelle, Programmieren.
+
+Yo Frankie entstand vom Blender Institute um die Spiele-Leistung der freien 3D-Software Blender zu verbessern. Die Charaktere des Spiels entstammen dem Blender Film "Big Buck Bunny". 

@@ -1,0 +1,12 @@
+Titel: X-Moto
+Spieler: 1
+Technik: 2D 
+Sprachen: 
+Lizenz: Code: GPL 
+Genre: Geschicklichkeit
+Website: http://xmoto.tuxfamily.org/
+seit: 2009
+Status: 0.5.11
+Mithelfen: SVG-Grafiken erstellen
+
+X-Moto ist ein Geschicklichkeits-Sportspiel in welchem man einen BMX-Motorradfahrer vorsichtig durch eine handgezeichnet SVG-Grafik bewegen muss, ohne sich den Kopf anzustoßen. Mit SVG-Malprogrammen wie Inkscape ist es relativ einfach, eigene Rennstrecken zu erzeugen.

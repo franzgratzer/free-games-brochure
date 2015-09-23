@@ -7,7 +7,7 @@ Demo/Crippleware sind unvollständige Spiele, die kostenlos gespielt und weiterg
 Freie Software hingegen darf beliebig wervendet (#0 use), kopiert (#2 share) untersucht (#01 study) und umgebaut (#3 improve) werden. Veränderte Versionen dürfen veröffentlicht werden.
 
 
-Beschränkungen unfreier (=roprietärer) Spiele
+Beschränkungen unfreier (proprietärer) Spiele
 
 Unfreie Spiele sind oft auf bestimmte Betreibssysteme beschränkt / nur unter Bedingungen wie online-Zwang möglich (#0: use). Da der Quellcode (wie etwas programmiert wurde) nicht veröffentlicht wird und dessen Veröffentlichung sogar rechtlich verfolgt wird, kann niemand von einem unfreien Spiel programmieren lernen (#1: study). Das Teilen mit Freunden (#2: share) wird durch Gesetzgebung und PR-Kampagne mit Piraterie und Raub gleichsetzt. Ein unfreies Spiel zu modden (Mod = ändern) ist rechtlich nicht erlaubt sondern bestenfalls geduldet. Mods unfreier Spiele können jederzeit verboten werden (#3: improve). Freie Software schützt wirksam gegen Altersfreigaben und andere Zensurmaßnahmen, die meist auf ein Verkaufs- und Bewerbungsverbot hinauslaufen. 
 

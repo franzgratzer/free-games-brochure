@@ -1,0 +1,12 @@
+Titel: Unknown Horizons
+Spieler: 1
+Technik: 2D (ISOmetric)
+Sprachen: C++, Python
+Lizenz: Code: GPL Art: cc-by-sa
+Genre: Wirtschafts-Simulation
+Website: http://www.unknown-horizons.org/
+seit: 2008
+Status: 2014.1
+Mithelfen: Übersetzten, Bugs reporten, Grafiken, Programmieren
+
+Unknown Horizons hieß ursrprünglich "Open Anno" und ist ein Nachbau der kommerziellen "Anno" Spiele-Serie. In dieser weitgehend friedlichen Echtzeit-Wirtschaftssimulation besiedelt der Spieler eine (un)bewohnte Insel, errichtet Gebäude und immer ausgefeiltere Wirtschaftskreisläufe. Mit Computergegenern kann Handel getrieben werden oder es kommt zu militärischen Auseinandersetzung. Der Fokus des Spiels liegt auf den Bedürfnissen und wirtschaftlichen Möglichkeiten der einzelnen Siedler.
