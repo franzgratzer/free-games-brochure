@@ -1,0 +1,12 @@
+Titel: Pioneer
+Spieler: 1
+Technik: 3d
+Sprachen: C++, Lua, Perl, 
+Lizenz: Code: GPL Art: CC-BY-SA
+Genre: Simulation
+Website: http://pioneerspacesim.net/
+seit: 2011
+Status: 
+Mithelfen: Programmieren, Grafiken, Texturen, Übersetzten
+
+Pioneer ist ein Weltraumspiel mit Handels- und Kampfmöglichkeiten aber ohne festem Spielziel, ähnlich wie Elite. 
