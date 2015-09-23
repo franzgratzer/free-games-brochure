@@ -1,0 +1,11 @@
+Titel: Neverball
+Spieler: 1-6
+Technik: 3D
+Sprachen: 
+Lizenz: GPL
+Genre: Geschicklichkeit
+Website: http://icculus.org/neverball/
+seit: 2014?
+Status: 1.6
+
+Ein Geschicklichkeitsspiel: eine Kugel rollt auf einer schwenkbaren 3D-Plattform. Durch schwenken der Plattform mit der Maus muss der Spieler die Kugel steuern, Hindernissen ausweichen und farbige Sterne einsammeln, um (unter Zeitdruck) den nächsten Level freizuschalten.

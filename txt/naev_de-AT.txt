@@ -1,0 +1,11 @@
+Titel: Naev
+Spieler: 1
+Technik: 2D
+Sprachen: C, Lua
+Lizenz: GPL
+Genre: action
+Website: http://naev.org/
+seit: 2011
+Status: 0.6
+
+Ein Weltraum 2D-Shooter mit Hintergrundstory und Missionen.
