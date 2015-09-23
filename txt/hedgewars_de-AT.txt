@@ -1,0 +1,10 @@
+Titel: Hedgewars
+Spieler: 1-8
+Technik: 2D
+Sprachen: C++, free Pascal, Haskell
+Lizenz: GPL
+Genre: action
+Website: http://www.hedgewars.org/
+seit: 2008
+
+Ein grafisch hübscher Nachbau der Worms-Artillerie-Spieleserie: Mehrere Teams von Comicfigur-Igeln (hegdehog) beschießen sich gegenseitig in einer handgemalten, komplett zerstörbaren 2D-Welt. Das Spiel ist rundenbasiert, allerdings gibt es pro Runde ein Zeitlimit. Die einzelnen Spielfiguren eines Teams dürfen pro Zug bewegt werden, können sich durch das Gelände graben bzw sich gegenseitig mit diversen Waffen beschiessen. Dabei muss Anstellwinkel, Windstärke und Bodenbeschaffenheit berücksichtigt werden. "Friendly Fire" ist ein wichtiges Spielelement.
