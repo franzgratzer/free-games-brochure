@@ -1,0 +1,14 @@
+Titel: Annex: Conquer the World
+Spieler: 1-4
+Technik: 3D-Karte
+Auflösung mindestens: 
+Sprachen: Mega Glest entgine. ?
+Art: 3D-Modelle
+Lizenz: Code: GPL. Artwork: CC-BY-SA (creative-commons Share alike)
+Genre: Echtzeitstrategie
+Website: https://libregamewiki.org/Annex:_Conquer_the_World
+seit: 2014
+status: 4.0
+Mithelfen: 3D-Modelle, Programmieren
+
+Annex ist ein "Anime-themed" Real-Time-Strategy Game (Echtzeit-Taktik) mit 4 verschiedenen Fraktionen. ZwischensResourcenabbaou sowie Forschung (Tech-Tree) sind im Spiel enthalten. um mehr Einheiten zu rekrutieren und bessere Gebäude bauen zu können. In den besseren Gebäuden kann Forschung betrieben werden und noch fortschrittlichere Einheiten prodozieren zu können. Die Einheiten werden für Angriff, Verteidiung, Erforschung und Rohstoffabbau benötigt.
