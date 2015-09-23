@@ -1,0 +1,11 @@
+Titel: FalconsEye
+Spieler: 1
+Technik: 2d/Iso 3d
+Sprachen: C?
+Lizenz: GPL
+Genre: rollenspiel
+Website: http://falconseye.sourceforge.net/
+seit: 2001
+
+
+Nethack gilt als einer der berühmtesten Vertreter aller Rogue-like games: rundenbasierter Rollenspiele, meist in einem Fantasy-Setting und ursprünglich nur im Textmodus spielbar. Wie bei allen Roguelikes erforscht der Spieler einen zufalls-generierten Dungeon, steigt immer tiefer hinab um Schätze, Monster und Fallen zu finden, seine Ausrüstung und seine Attribute (Stärke, Geschicklichkeit, Intelligenz) zu verbessern. Je nach der zu Spielanfang gewählten Rasse und Klasse (Beruf) stehen im Spielverlauf besondere Fähigkeiten zur Verfügung. Nethack efreut den Spieler mit Händlern, die gesammelte Ausrüstung abkaufen sowie mit dressierbaren Tieren, die für den Spieler kämpfen (und verwildern, wenn sie nicht regelmäßig gefüttert werden). Nethack besticht den Spieler mit unglaublich detailierter Programmierung: Rüstung kann rosten wenn sie mit Wasser in Berührung kommt, gekochtes Nahrung hält länger (wenn man einen Kochtopf findet).. FalconsEye ist eine grafisch gut aussehende Umgebung für das ursprüngliche Nethack Spiel. Zusätzlich zu den nach wie vor funktionierenden Tastaturkommandos ist zumindest ein Teil des Spiels mit der Maus bedienbar.

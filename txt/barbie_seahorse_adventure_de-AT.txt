@@ -1,0 +1,14 @@
+Titel: Barbie Seahorse Adventure
+Spieler: 1
+Technik: 2d
+Auflösung 
+Sprachen: python2, pygame, SDL
+Art: 2d
+Lizenz: Code: GPL. 
+Genre: Plattformer 
+Website: http://www.imitationpickles.org/barbie/
+seit: 2007
+status: fertig
+Mithelfen: python, pygame
+
+Ein Vertreter der Plattform Hüpfspiele (Jump and Run), Gewinner des Pyweek-Wettbewerbs 2007

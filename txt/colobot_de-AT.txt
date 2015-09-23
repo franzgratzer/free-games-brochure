@@ -1,0 +1,14 @@
+Titel: Colobot Gold
+Spieler: 1
+Technik: 3d
+Auflösung 
+Sprachen: c++, CBOT
+Art: 3D
+Lizenz: Code: GPL Art: GPL
+Genre: RTS, Denkspiel, Lernspiel  
+Website: http://colobot.info/
+seit: 2013
+status: 0.1.2
+Mithelfen: programmieren, testen
+
+Colobot ist ein ambitioniertes Echtzeitstrategiespiel (RTS) über Erforschung fremder Planeten und Aufbau von Basen mit Hilfe von Robotern. Im Gegensatz zu anderen RTS Spielen gibt es einen Twist: Die einzelnen Roboter werden nicht per Mausklick gesteuert sondern müssen programmiert werden, mit Hilfe einer eigenen, an Java/C++ angelehnten Programmiersprache namens CBOT. Die Bodenkontrolle bietet dem Spieler fertige Programme für die Roboter an; Spieler mit Programmierkenntnissen können diese Programme verbessern und adaptieren. Das Spiel ist auch ohne Programmierkenntnisse spielbar. 

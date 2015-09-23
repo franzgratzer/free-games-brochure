@@ -1,0 +1,14 @@
+Titel: Blob Wars Episode 1
+Spieler: 1
+Technik: 2d
+Auflösung 
+Sprachen: c++
+Art: 2d
+Lizenz: Code: GPL 
+Genre: Plattformer 
+Website: http://sourceforge.net/projects/blobwars/
+seit: 2011
+status: fertig
+Mithelfen: 
+
+Ein Hüpf/Schießspiel (Plattformer, Jump and Run): Der Spieler ist ein Pacman-ähnlicher Gelber "Blob" und muss komplexe Level erforschen, Waffen aufsammeln, unzähligen Gegnern und Fallen ausweichen um Schlüssel zu finden un um gefangene Blobs zu befreien. In Unterwasserabschnitten verschäft ein begrenzter Luftvorrat die Spielschwierigkeit.

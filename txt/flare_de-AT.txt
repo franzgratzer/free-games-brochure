@@ -1,0 +1,14 @@
+Titel: Flare
+Spieler: 1
+Technik: Iso-3d
+Auflösung 
+Sprachen: python, blender, 
+Art: 2d, 3d
+Lizenz: Code: GPL Art: cc-by-sa
+Genre: Action-Role-playing game 
+Website: http://flarerpg.org/
+seit: 2013
+status: 0.19
+Mithelfen: übersetzten, zeichnen, story, level-design, programmieren, artwork
+
+Flare ist eine "free/libre Action Role Playing Engine" zur Erzeugung von Action-RPG-Games ähnlich der Diablo Serie. Gespielt wird in (pausierbarer) Echtzeit, der Spieler kontrolliert nur einen einzigen Charakter.
