@@ -1,0 +1,12 @@
+Titel: Supertux Kart
+Spieler: 1-4
+Technik: 3D
+Sprachen: C++, Irrlicht, OpenAL
+Lizenz: Code: GPL Art: CC-BY-SA
+Genre: Autorennspiel
+Website: http://supertuxkart.sourceforge.net/
+seit: 2006
+Status: 0.9
+Mithelfen: 
+
+Supertux ist ein von Mario Kart (1992) inspiriertes Rennspiel: Bis zu vier Spieler können gleichzeitg an einem Computer gegeneinander ein Go-Kart Rennen fahren (SplitScreen). Die Fahrer sind Maskottchen aus der Welt der freien Software, z.B. Tux das Linux-Maskottchen, das BSD-Teufelchen oder das Blender-Äffchen. Während der Fahrt können Extras aufgesammelt werden, um kurzfristig Vorteile zu erlangen.

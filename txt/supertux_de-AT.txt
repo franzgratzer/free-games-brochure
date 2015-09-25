@@ -1,0 +1,12 @@
+Titel: Supertux
+Spieler: 1
+Technik: 2D 
+Sprachen: C++, SDL, OpenAL, OpenGL
+Lizenz: Code: GPL Art: CC-BY-SA
+Genre: Jump and Run
+Website: https://supertux.github.io/
+seit: 2005
+Status: 0.3.5
+Mithelfen: 
+
+Supertux ist ein Geschicklichkeits / Hpüfspiel, inspiriert von Nintentos Super Mario Bros. Spielen (1985). Der Spieler steuert Das Linuxmaskottchen Tux, den Pinguin, durch eine eisige Welt voller Münzen zum Aufsammeln und Gegner zum Ausweichen / darüber hüpfen. 
