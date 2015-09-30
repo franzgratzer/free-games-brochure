@@ -1,0 +1,12 @@
+Begriff: Erklärung
+
+Genres:
+Action: Betonung auf Geschicklichkeit und Schnelligkeit
+Taktik: kurzfristig kluges taktieren, kombinieren von Fähigkeiten verschiedener Einheiten. Gewinnen eines Kampfes.
+Strategie: langristig strategisches Planen. Gewinnen eines Krieges.
+
+
+Art: Kunst
+Artwork: Musik, Grafik, Texte und weitere Elemente eines Spiels die nichts mit dem Programmcode zu tun haben.
+Code, Sourcecode: Quelltext. Die Befehlszeilen in einer Programmiersprache, aus denen das Spiel programmiert wurde.
+Github: ein populäres Code Repository für open-source Programme, inkl. Wikis, Issue-System usw.
