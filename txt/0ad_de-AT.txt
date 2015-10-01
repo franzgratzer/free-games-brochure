@@ -1,19 +1,16 @@
 Titel: 0ad
+Genre: Taktik/Strategie/Aufbau
+Einstieg: leicht
 Spieler: 1-6
-Technik: 3D-Karte erforderlich: Open GL 1.3 oder besser
-Hardware-Ansprüche: Mittel bis Hoch 
-Auflösung mindestens: 1024x768
-Code: C++ (engine), JavaScript (Game logic)
-Lizenz: Code: GPL / CC-BY-Sa 
-Genre: Taktik, Strategie, Aufbau
-Website: http://play0ad.com/
-seit: 2010
-status: alpha 15
-Einstieg: Leicht
-Mithelfen: http://play0ad.com/community/participate/
-Gesucht werden Programmierer und Grafiker. Mithelfen können auch Blogger/Youtuber, welche für das Spiel in sozialen Netzwerken Werbung machen
+Grafik: 3D
+Hardware-Anforderungen: moderat
+Technik: C++/JavaScript
+Lizenz: GPL/CC-BY-SA
+Seit: 2010
+Version: Aalpha 15
+Mithelfen: programmieren, Grafik, bloggen/youtuben (bewerben)
 
+0AD ist ein Echtzeitstrategie (Echtzeittaktik) Spiel in einem historischen Setting, ähnlich "Age of Empires" (1997). Es geht um aufbauen, forschen, Resourcen-Management und taktischen Echtzeit-Kampf. Das Spielgeschehen in zoom-und drehbarer 3D-Grafik wird von schräg oben gezeigt.
+Verschiedene Völker und Epochen mit unterschiedlichen Technologien stehen zur Auswahl und können im Spiel er­forscht werden. Rohstoffe müssen abgebaut werden um mehr Einheiten zu rekrutieren und neue Gebäude bauen zu können. In den besseren Gebäuden kann Forschung be­trie­ben werden um noch fortschrittlichere Einheiten für An­griff, Verteidiung, Erforschung und Rohstoffabbau produ­zie­ren zu können. Beim Zusammentreffen verfeindeter Ar­meen werden in Echtzeit Kämpfe ausgefochten, wobei die Einheiten unterschiedliche Formationen einhalten kön­nen. Das Spiel glänzt durch liebevoll recherchierte historische Details der verschiedenen Völker.
 
-0AD ist ein ambitioniertes Echtzeitstrategie (Echtzeittaktik) Spiel in einem historischen Setting, ähnlich den "Age of Empires" (1997) Spielen. Die Spielinhalte befassen sich mit Aufbauen, Forschen, Resourcen-Management und taktischen Echtzeit-Kämpfen. Das Spielgeschehen in zoom-und drehbaren 3D-Grafik wird von schräg oben gezeigt.
-
-Verschiedene Völker und Epochen mit unterschiedlichen Technologien stehen zur Auswahl und können im Spiel erforscht werden. Rohstoffe müssen abgebaut werden um mehr Einheiten zu rekrutieren und bessere Gebäude bauen zu können. In den besseren Gebäuden kann Forschung betrieben werden und noch fortschrittlichere Einheiten prodozieren zu können. Die Einheiten werden für Angriff, Verteidiung, Erforschung und Rohstoffabbau benötigt. Beim Zusammentreffen verfeindeter Armeen werden in Echtzeit Kämpfe ausgefochten, wobei die Einheiten unterschiedliche Formationen einhalten können. Das Spiel glänzt durch liebevoll recherchierte historische Details der verschiedenen Völker.
+play0ad.com

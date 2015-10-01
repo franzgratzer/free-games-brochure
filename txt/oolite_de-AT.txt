@@ -1,14 +1,14 @@
-Titel: oolite
+Titel: Oolite
+Genre: Simulation/Action
+Einstieg: normal
 Spieler: 1
-Hardware-Anforderung: Niedrig-Hoch
-Technik: 3D
-Sprachen: Objective-C
+Grafik: 3D
+Hardware-Anforderungen: gering
+Technik: Objective-C
 Lizenz: GPL
-Genre: Simulator, Action, Handel
-Website: http://oolite.org/
-seit: 2003
-Status: 1.82
-Einstieg: Mittel
-Mithelfen:
+Seit: 2003
+Version: 1.82
 
-OO-Lite ist ein Nachbau des Klassiker-Weltraumspiels Elite (1984). Als Raumschiffpilot fliegt man durch ein 3D-Universum, bekämft Piraten, handelt an Raumstationen und rüstet nach und nach das eigene Raumschiff immer stärker auf. OO-Lite ermöglicht mit zahlreichen Erweiterungen "Expansion Packs" die Grafik zu verbessern und zusätzliche Spielkomponenten (Missionen etc.) einzubauen.
+Oolite ist ein Nachbau des Klassiker-Weltraumspiels Elite (1984). Als Raumschiffpilot fliegt man durch ein 3D-Universum, bekämft Piraten, handelt an Raumstationen und rüstet nach und nach das eigene Raumschiff immer stärker auf. Oolite ermöglicht mit zahlreichen Erweiterungen "Expansion Packs" die Grafik zu verbessern und zusätzliche Spielkomponenten (Missionen etc.) einzubauen.
+
+oolite.org

@@ -1,13 +1,14 @@
 Titel: Pacman
-Spieler: 1
-Technik: 2D
-Hardware-Anforderung: Gering
-Sprachen: C++, SDL
-Lizenz: Code: GPL
 Genre: Action
-Website: https://github.com/ebuc99/pacman
-seit: 2015
+Einstieg: leicht
+Spieler: 1
+Grafik: 2D
+Hardware-Anforderungen: gering
+Technik: C++ (SDL)
+Lizenz: GPL
+Seit: 2015
 Status: 0.7
-Einstieg: Leicht
 
-Pacman ist ein möglichst orginalgetreuer Nachbau des gleichnamigen Spielhallenautomaten von 1980. Der Spieler steuert Pacman durch ein immer gleichbleibendes Labyrinth,  isst Pillen und muss den 4 (beschränkt intelligenten) Geistern ausweichen. Ein Level ist gewonnen wenn alle Pillen aufgesammelt wurden. Vier etwas stärkere Super-Pillen erlauben es, für kurze die Jäger zu Gejagten zu machen und selbst die Geister aufzuessen. 
+Pacman ist ein möglichst orginalgetreuer Nachbau des gleichnamigen Spielhallenautomaten von 1980. Der Spieler steuert Pacman durch ein immer gleichbleibendes Labyrinth,  isst Pillen und muss den 4 (beschränkt intelligenten) Geistern ausweichen. Ein Level ist gewonnen wenn alle Pillen aufgesammelt wurden. Vier etwas stärkere Super-Pillen erlauben es, für kurze die Jäger zu Gejagten zu machen und selbst die Geister aufzuessen.
+
+github.com/ebuc99/pacman

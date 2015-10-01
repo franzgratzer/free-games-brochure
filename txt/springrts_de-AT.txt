@@ -1,15 +1,15 @@
 Titel: Spring RTS
+Genre: Strategie
+Einstieg: normal
 Spieler: 1-4
-Hardware-Anforderung: Mittel-Hoch
-Eintieg: Mittel
-Sprachen: C++, Lua
-Lizenz: Code: GPL 
-Genre: Real-Time-Strategy
-Website: https://springrts.com/
-seit: 2005
-Status: 100.0
-Einstieg: Mittel
+Hardware-Anforderungen: moderat
+Sprachen: C++/Lua
+Lizenz: GPL
+Seit: 2005
+Version: 100.0
 Mithelfen: 3D Modelle machen, Spiele testen, programmieren, Maps
 
 Ursprünglich von Fans gemacht als 3D Modifikation für das kommerzielle RTS-Spiel "Total Annihilation" (1997) ist Spring RTS mittlerweile eine ausgewachsene Game-Engine und erlaubt mehrere Spiele (Mods) und KArten (Maps): Tausende Einheiten (Panzer, Flugzeuge, Schiffe, Roboter) können vom Spieler per Mausklick kommandiert werden, gleichzeitig muss sich der Spieler um den Resourcenabbau (Metall und Energie) kümmern, bessere Fabriken für stärkere Einheiten bauen und taktisch auf die Angriffe des Gegners reagieren. Der Strategieteil besteht darin dass man nie genug Zeit, Metall und Energie hat um all die Einheiten und Gebäude zu bauen die man benötigt. Stattdessen spezialisiert man sich auf wenige Truppentypen (z.B Schiffe, oder Artillerie) und spart die stets knappen Resourcen für spätere Wunderwaffen auf oder versucht mit Schwärmen von billigen schnell prouzierten Einheiten zu expandieren.
 Es gibt Mods die sich eng an das Vorbild Total Annihilation anlehnen, andere wiederum simulieren Einheiten aus dem 2. Weltkrieg oder aus bekannten Science-Fiction Serien. Die Spring-Engine erlaubt es nicht nur Einheiten von der zoombaren Draufsicht zu kontrollieren; auf Wunsch kann man sich auch in jede einzelene Einheit hineinversetzten und in der Ego-Perspektive spielen.
+
+springrts.com

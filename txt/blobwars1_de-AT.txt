@@ -1,15 +1,15 @@
-Titel: Blob Wars Episode 1
+Titel: Blobwars: Metal Blob Solid
+Genre: Action
+Einsieg: leicht
 Spieler: 1
-Technik: 2d
-Hardware-Anforderung: Gering
-Genres: Action
-Sprachen: c++
-Art: 2d
-Lizenz: Code: GPL 
-Website: http://sourceforge.net/projects/blobwars/
-seit: 2011
-status: fertig
-Einsieg: Leicht
-Mithelfen: Das Spiel biete nur 2 verschiedene (aber sehr große) Level und fordert dazu auf, eigene Level zu erstellen.
+Grafik: 2D
+Hardware-Anforderungen: gering
+Technik: C++
+Lizenz: GPL
+Seit: 2009
+Version: 1.19
+Mithelfen: neue Level erstellen
 
-Blob Wars ist ein 2D Hüpf/Schießspiel (Plattformer, Jump and Run): Der Spieler ist ein Pacman-ähnlicher gelber "Blob" und muss komplexe Level erforschen und seine gefangen Freunde retten. Unzählige Computergegner stellen sich ihm in den Weg, außerdem sind die großen Level voller gefährlicher Abgründe, verschlossener Türen, Teleporter, Fallen und Unterwasser-Höhlen. Schlüssel und Extrawaffen können gefunden werden. Das übertrieben kriegerische Spiel (rotes Stirnband, spektakulär blutrote Pixel-Explosioen), "Missed-in-Action"-Blobs sieht sich al Parodie auf den Film Rambo II (1985).
+Blob Wars ist ein 2D Hüpf-/Schießspiel (Plattformer, Jump and Run): Der Spieler ist ein Pacman-ähnlicher gelber "Blob" und muss komplexe Level erforschen und seine gefan­ge­nen Freunde retten. Unzählige Computergegner stellen sich ihm in den Weg, außerdem sind die großen Level voller gefährlicher Abgründe, verschlossener Türen, Teleporter, Fallen und Unterwasser-Höhlen. Schlüssel und Extra­waf­fen können gefunden werden. Das übertrieben krie­ger­ische Spiel (rotes Stirnband, spektakulär blutrote Pixel-Ex­plo­si­onen), "Missed-in-Action"-Blobs sieht sich als Pa­ro­die auf den Film Rambo II (1985).
+
+sourceforge.net/projects/blobwars

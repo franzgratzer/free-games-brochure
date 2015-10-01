@@ -1,14 +1,15 @@
 Titel: The Powder Toy
-Spieler: 1
-Technik: 2d
-Hardware-Anforderung: Gering-Hoch
-Sprachen: C++
-Lizenz: Code: GPL 
 Genre: Simulation
-Website: http://powdertoy.co.uk/
-seit: 2005
-Status: 90.2
-Einstieg: Mittel
-Mithelfen: Scenarios erstellen und Bewerten, Tutorials machen
+Einstieg: normal
+Spieler: 1
+Grafik: 2D
+Hardware-Anforderungen: gering
+Sprachen: C++
+Lizenz: GPL
+Seit: 2005
+Version: 90.2
+Mithelfen: Scenarios erstellen und bewerten, Tutorials machen
 
 Ein "falling sand game" oder eine physikalisch etwas vereinfachte 2D-Partikelsimulation: the Powder Toy erfreut Jung und Alt durch seine Vielfältigkeit. Auf den Pixel genau werden verschiedenste Partikel (Sand, Wasser, Sprengstoff, elektrische Funken ...) in einer 2D-Welt simuliert. Der Spieler kann komplizierte Szenarios (immer nur einen Bildschirm groß) mit verschiedensteen Materialien "malen" und anschließend anzünden, in die Luft sprengen oder unter einfrieren. Die meisten Partikel reagieren miteinander: Wasser leitet Strom, Öl verbrennt und erzeugt Hitze, Sprengstoff explodiert bei Kontakt mit einem Funken usw. Im Spiel selbst sind Mini-Spiele eingebaut, man kann z.B. einen einfaches Plattform "Jump and Run game" für 2 Spieler erzeugen, oder eine "Cornwells Game of Life" Simulation starten. Die eingebaute "Elektrik" erlaubt komplizierte Schaltungen wie z.B. Taschenrechner oder einfachste Videospiele, wobei man dem Strom in der (selbst gemalten) Leitung beim fließen zusehen kann. Ein Hauptreiz des Spieles besteht darin den von anderen Spielern detailverliebt gemalten und veröffentlichten Scenarios wie Weltraumstädte und Atomkraftwerke fachgerecht zu zerpulvern. Das Spiel ist keine chemisch korrekte Simulation, mit etwas Programmierkenntnissen lassen sich jedoch eigene Partikel-Elemente mit neuen Eigenschaften erstellen.
+
+powdertoy.co.uk

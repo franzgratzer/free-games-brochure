@@ -1,12 +1,14 @@
 Titel: Minetest
-Spieler: 1-16? (Netzwerk)
-Hardware-Anforderung: Mittel
-Sprachen: C++, Lua
-Lizenz: GPL / CC-BY-SA
-Genre: sandbox
-Website: http://minetest.net/
-seit: 2013
-Version: 0.4.12
+Genre: Sandbox
 Einstieg: leicht
+Spieler: 1-16? (Netzwerk)
+Grafik: 3D
+Hardware-Anforderungen: moderat
+Sprachen: C++/Lua
+Lizenz: GPL/CC-BY-SA
+Seit: 2013
+Version: 0.4.12
 
-Ein freier Nachbau von Minecraft (2011), einem Sandbox-Game: Es gibt kein vorgegebenes Spielziel, aber eine zufallsgenerierte Welt bestehend aus quadratischen Klötzchen (Voxel), welche beliebig umgebaut werden kann. Verschiedene Klötze (Materialien) haben unterschiedliche Eigenschaften und können miteinander kombiniert werden, z.B. um Ausrüstungsgegenstände oder neue Materialien (z.B. Fensterglas) zu erschaffen. Das simulieren elektrischer Leitungen ist möglich, um z.B. primitive elektrische Schaltungen zu bauen. 
+Ein freier Nachbau von Minecraft (2011), einem Sandbox-Game: Es gibt kein vorgegebenes Spielziel, aber eine zufallsgenerierte Welt bestehend aus quadratischen Klötzchen (Voxel), welche beliebig umgebaut werden kann. Verschiedene Klötze (Materialien) haben unterschiedliche Eigenschaften und können miteinander kombiniert werden, z.B. um Ausrüstungsgegenstände oder neue Materialien (z.B. Fensterglas) zu erschaffen. Das simulieren elektrischer Leitungen ist möglich, um z.B. primitive elektrische Schaltungen zu bauen.
+
+minetest.net

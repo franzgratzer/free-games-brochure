@@ -1,15 +1,15 @@
 Titel: Annex: Conquer the World
+Genre: Taktik/Action/Strategie
 Spieler: 1-4
-Technik: 3D-Karte
-Hardware: Mittel-Hoch
-Sprachen: Mega Glest engine
-Art: 3D-Modelle
-Lizenz: GPL / CC-BY-SA
-Genre: Taktik, Action, Strategie
-Website: https://megaglest.org/
-seit: 2014
-status: 4.0
-Mithelfen: gesucht werden C++ und Web-Programmierer, Linux-Admins und 3D-Modeler
-Einstieg: Leicht
+Einstieg: leicht
+Grafik: 3D
+Hardware-Anforderungen: mittel
+Technik: C++ (Mega Glest Engine)
+Lizenz: GPL/CC-BY-SA
+Seit: 2014
+Version: 4.0
+Mithelfen: programmieren, Linux-Adminstration, 3D-Modeling, Webentwicklung
 
-Annex ist ein "Anime-themed" Echtzeit-Taktik-Spiel (RTS, Real-time-strategy) mit 4 verschiedenen magischen Fraktionen und schöner 3D-Grafik. Es ist thematisch an Warcraft 3 (2003) orientiert. Neben Kämpfen sind auch Resourcenabbau (4 verschiedene Resourcen) sowie Forschung (Tech-Tree) im Spiel enthalten. Wie bei allen RTS Spielen baut man Resourcen ab um mehr Einheiten (diverse Fantasy Truppentypen, vom Bogenschützen bis zum Drachenreiter) und bessere Gebäude kaufen zu können. In den besseren Gebäuden (welche per Forschung freigeschaltet werden müssen) können teure, aber kampfstarke Elite-Einheiten produziert werden können. Das Spiel glänzt vor allem bei den taktischen Kämpfen mit schönen 3D-Grafikeffekten und Lichteffekten für magische Waffen und Explosionen. 
+Annex ist ein "Anime-themed" Echtzeit-Taktik-Spiel (RTS, Real-time-strategy) mit 4 verschiedenen magischen Frak­tionen und schöner 3D-Grafik. Es ist thematisch an War­craft 3 (2003) orientiert. Neben Kämpfen sind auch Ressour­cenabbau (4 verschiedene Ressourcen) sowie Forschung (Tech-Tree) im Spiel enthalten. Wie bei allen RTS Spielen baut man Resourcen ab um mehr Einheiten (diverse Fan­ta­sy-Truppentypen, vom Bogenschützen bis zum Drachen­reiter) und bessere Gebäude kaufen zu können. In den bes­se­ren Gebäuden (welche per Forschung freigeschaltet wer­den müssen) können teure, aber kampfstarke Elite-Einheiten produziert werden können. Das Spiel glänzt vor allem bei den taktischen Kämpfen mit schönen 3D-Gra­fik­effekten und Lichteffekten für magische Waffen und Explosionen.
+
+annexconquer.com

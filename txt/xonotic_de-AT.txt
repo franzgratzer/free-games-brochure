@@ -1,14 +1,15 @@
 Titel: Xonotic
+Genre: Ego-Shooter
+Einstieg: leicht
 Spieler: 1-64?
-Hardware-Anforderung: Mittel-Hoch
-Technik: 3D
-Sprachen: 
+Grafik: 3D
+Hardware-Anforderungen: moderat
+Technik: C++
 Lizenz: GPL
-Genre: FPS
-Website: http://www.xonotic.org/
-seit: 2010
-Status: 0.8.1
-Einstieg: Leicht
-Mithelfen: Map-Editor, Programmieren
+Seit: 2010
+Version: 0.8.1
+Mithelfen: Maps erstellen, programmieren
 
 Ein Fork vom First-Person 3D Shooter Nexius. Xonotic bietet rasante Multiplayer-Action mit bis zu 16 verschiedenen Waffen, jede davon hat einen alternativen Feuermodus. Karten (maps) von Nexius werden unterstützt, das Spiel bietet mehrere Spiel-Modi. Wie bei allen First-Person-Shootern geht es um das "Fraggen" (abschießen von Mitspielern), in einigen Spiel-Modis wird mehr Wert auf Teamwork gelegt.
+
+xonotic.org

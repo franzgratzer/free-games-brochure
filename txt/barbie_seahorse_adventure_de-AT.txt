@@ -1,15 +1,14 @@
 Titel: Barbie Seahorse Adventure
-Spieler: 1
-Technik: 2d
-Hardware-Anforderung: gering
-Sprachen: python2, pygame, SDL
-Art: 2d
-Lizenz: Code: GPL. 
-Genre: Action 
-Website: http://www.imitationpickles.org/barbie/
-seit: 2007
-status: fertig
+Genre: Action
 Einstieg: Leicht
-Mithelfen: python, pygame
+Spieler: 1
+Grafik: 2D
+Hardware-Anforderungen: gering
+Technik: Python (Pygame/SDL)
+Lizenz: GPL
+Seit: 2007
+Version: 1.1
 
 Ein Vertreter der Plattform Hüpfspiele (Jump and Run), Gewinner des Pyweek-Wettbewerbs 2007, in welchem innerhalb einer Woche ein Spiel programmiert werden muss. In Barbie Seahorse Adventure steuert der Spieler ein kleines, mäßig bewaffnets Seepferchen von links nach rechts durch über scrollende Platformen, ähnlich wei beim Spiel Supertux. Getroffene Gegner erzeugen nach oben schwebende Luftblasen. Auf diese Luftblasen kann das Seepferdchen draufhüpfen um sich in höher gelegene Bereiche mit ansonsten schwer zu erreichenden Plattformen transportieren zu lassen. Neben normalen Gegnern die man umgehen oder bekämpfen muss bietet das Spiel besonders schwere Boss-Gegner.
+
+imitationpickles.org/barbie

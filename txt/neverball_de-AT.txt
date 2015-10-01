@@ -1,12 +1,13 @@
 Titel: Neverball
+Genre: Action/Geschicklichkeit
+Einstieg: leicht
 Spieler: 1-6
-Hardware-Anforderung: Mittel
-Technik: 3D
+Grafik: 3D
+Hardware-Anforderungen: moderat
 Lizenz: GPL
-Genre: Action
-Website: http://icculus.org/neverball/
-seit: 2014?
-Status: 1.6
-Einstieg: Leicht-Mittel
+Seit: 2005
+Version: 1.6
 
 Neverball ist ein Geschicklichkeitsspiel mit frei drehbarer 3D-Grafik: eine Kugel rollt auf einer schwenkbaren 3D-Plattform. Durch schwenken der Plattform mit der Maus muss der Spieler die Kugel steuern, Hindernissen ausweichen und farbige Sterne einsammeln, um (unter Zeitdruck) den nächsten Level freizuschalten. Es gibt eine große Anzahl dreidimensionale Level, teils mit beweglichen Hindernissen (z.B. Bumper wie bei einem Flipper), teils mit sehr abstrakten, Korkenzieher-artigen Rutschbahnen. Das Spiel wird schnell sehr fordernd und erfordert viel Fingerspitzengefühl und gute Nerven. Das Schwesterprojekt Neverput simuliert mit der gleichen Grafik-engine eine Minigolf-Anlage und ist leichter beherrschbar.
+
+icculus.org/neverball

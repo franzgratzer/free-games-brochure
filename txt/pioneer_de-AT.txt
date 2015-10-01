@@ -1,13 +1,14 @@
 Titel: Pioneer
-Spieler: 1
-Hardware-Anforderung: Mittel-Hoch
-Technik: 3d
-Sprachen: C++, Lua, Perl, 
-Lizenz: Code: / CC-BY-SA
 Genre: Simulation
-Website: http://pioneerspacesim.net/
-seit: 2008
-Eintieg: Mittel
-Mithelfen: Programmieren, Grafiken, Texturen, Übersetzten
+Eintieg: normal
+Spieler: 1
+Grafik: 3D
+Hardware-Anforderungen: moderat
+Sprachen: C++/Lua/Perl
+Lizenz: CC-BY-SA
+Seit: 2008
+Mithelfen: programmieren, Grafiken und Texturen erstellen, übersetzten
 
 Pioneer ist ein Weltraumspiel mit Handels- und Kampfmöglichkeiten aber ohne festem Spielziel, ähnlich wie Elite. Man fliegt von Raumstation zu Raumstation, handelt mit Waren, nimmt Aufträge an und verbessert nach und nach sein Raumschiff. Es gibt mehrere verschiende, untereinander verfeindete Fraktionen denen sich der Spieler anschließen kann; es ist aber auch möglich als Einzelkämpfer alleine zu fliegen. Pioneer ist der Versuch
+
+pioneerspacesim.net

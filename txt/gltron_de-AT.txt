@@ -1,12 +1,12 @@
 Titel: GL-Tron
-Spieler: 1-4 Netzwerk/Splitscreen
-Hardware-Anforderung: Mittel
-Technik: 3d OpenGL
-Genres: Action
+Genre: Action
+Einstieg: leicht
+Spieler: 1-4 (Netzwerk/Splitscreen)
+Grafik: 3D
+Hardware-Anforderungen: moderat
 Lizenz: GPL
-Website: http://www.gltron.org/
-seit: 2003
-Einstieg: Leicht
-
+Seit: 2003
 
 Das Spiel zum Film Tron (1982), in welchem erstmals eine 3D-Version des "Snake"-Spiels (1979) gezeigt wurde. Mehrere Spieler rasen auf "Light-Bikes", die sich nur in 4 Richtungen steuern lassen und nicht bremsen können, durch ein begrenztes Spielfeld und ziehen dabei eine Mauer hinter sich her. Wer in eine Mauer rast, verliert. GL-Tron besticht durch ein unkompliziertes Spielkonzept und rasante Spielgrafik, die auf guter Hardware besser ausschaut als die (Trickfilm) Grafik vom Kinofilm.
+
+gltron.org

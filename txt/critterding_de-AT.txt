@@ -1,15 +1,14 @@
 Titel: Critterding
-Spieler: 1
-Technik: 2d, 3d
-Hardware-Anforderung: Hoch
-Sprachen: c++, SDL
-Art: 
-Lizenz: GPL
-Genre: Sandbox, Simulation
-Website: http://critterding.sourceforge.net/
-seit: 2013
-Version: 1.0 beta 14
+Genre: Sandbox/Simulation
 Einstieg: schwer
- 
+Spieler: 1
+Grafik: 3D
+Hardware-Anforderungen: hoch
+Technik: C++ (SDL)
+Lizenz: GPL
+Seit: 2013
+Version: 1.0 beta 14
 
 Critterding ist ein Evolutions-Simulator, von der Grundidee ähnlich den Conways "Game of life" Spielen (1970). Primitive Polygon-Lebwesen werden in einer Zufallswelt (2D oder 3D) freigelassen. Sie "leben" virtuell: gehorchen Gesetzen der Physik, suchen Futter, merken ob sie andere Lebewesen berühren und vermehren sich (bzw. sterben aus). Über den Verlauf mehrerer Generationen entstehen immer komplexere, besser angepasste Polygon-Lebensformen. Es gibt kein ausgewiesenes Spielziel, aber es macht Spaß der Evolution bei der Arbeit zuzuschauen und die Entstehung komplexerer Organismen (z.B. Parasiten oder Räuber) zu beobachten bzw. über das Internet auszutauschen.
+
+critterding.sourceforge.net

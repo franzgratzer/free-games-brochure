@@ -1,16 +1,16 @@
-Titel: Battle of Wesnoth
-Spieler: 1-6
-Technik: 2D
-Hardware-Anforderung: Mittel
-Sprachen: C++/WML
-Lizenzen: GPL 
-Genre: Strategie
-Website: wesnoth.org
-seit: 2003
-Version: 1.12.4
+Titel: The Battle for Wesnoth
+Genre: Strategie (rundenbasiert)
 Einstieg: Mittel
-Mithelfen: programmieren, Levels, Einheiten, Musik,
-Geschichten, übersetzten, ...
-
+Spieler: 1-6
+Grafik: 2D (hexagonal)
+Hardware-Anforderungen: moderat
+Technik: C++/WML
+Lizenz: GPL
+Seit: 2003
+Version: 1.12.4
+Mithelfen: programmieren, Levels und Einheiten erstellen, Musik machen,
+Geschichten schreiben, übersetzten, ...
 
 Bei Battle of Wesnothe kauft und bewegt der Spieler  handgezeichnete Fantasy-Figuren in einer scrollbare 2D-Hexfeldkarte. Im Laufe einer Kampagne müssen mehrere Missionen absolviert werden. Jede Mission hat ihre Eigene Spielkarte, überlebende Einheiten mit viel Erfahrung dürfen von Mission zu Mission mitgenommen werden. Bei Kämpfen spielt das Terrain, die Attribute (Fernkamf/Magiefähigkeit) der Einheiten sowie die taktische Aufstellung (umzingelt, Zone of Control) eine große Rolle. Kämfe erstrecken sich oft über mehrere Spielrunden. Je nach Missionsziel müssen Stützpunkte gehalten werden, Städte erobert, Feinder vertrieben oder Helden eskortiert werden. Ein mitgelieferter Karten- und Kampagnen-Editor erlaubt Kreativität, die Story wird in handgezeichneten Bildern weitererzählt.
+
+wesnoth.org

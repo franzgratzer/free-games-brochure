@@ -1,12 +1,14 @@
 Titel: Frozen Bubble
-Spieler: 1-2
-Hardware-Anforderung: gering
-Sprachen: Perl, Java
-Lizenz: GPL
-Genre: Action, Denkspiel
-Website: http://www.freecol.org/
-seit: 2001
-Mithelfen: Level Editor
+Genre: Action/Denkspiel
 Einstieg: leicht
+Spieler: 1-2
+Grafik: 2D
+Hardware-Anforderungen: gering
+Technik: Perl/Java
+Lizenz: GPL
+Seit: 2001
+Mithelfen: Levels erstellen
 
 Ein bei allen Altersgruppen beliebtes Geschicklichkeitsspiel: Der Spieler (symbolisiert duch einen kleinen Comic-Drachen) dreht eine Harpune um damit farbige Bälle nach oben zu schießen, zu bereits vorhanden bunten Bällen. Mehrere aneinanderliegende, gleichfarbige Bälle lösen eine Kettenreaktion aus und zerplatzen. Spielziel ist es alle Bälle von der Plattform verschwinden zu lassen. Es gibt ein Zeitlimit (die Bälle werden von einer Plattform nach unten gedrückt und dürfen den Spieler nicht erreichen). Das Spiel ist am ehesten vergleichbar mit Geschicklichkeitsspiel-Klassikern wie Tetris (1985).
+
+frozen-bubble.org

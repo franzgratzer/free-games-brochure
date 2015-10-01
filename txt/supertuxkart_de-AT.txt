@@ -1,16 +1,15 @@
 Titel: Supertux Kart
+Genres: Rennspiel/Action/Taktik
+Einstieg: leicht
 Spieler: 1-4
 Technik: 3D
-Hardware-Anforderung: Mittel
-Sprachen: C++, Irrlicht, OpenAL
-Lizenz: GPL / CC-BY-SA
-Genres: Rennspiel, Action, Taktik
-Website: http://supertuxkart.sourceforge.net/
-seit: 2006
+Hardware-Anforderungen: moderat
+Technik: C++/Irrlicht (OpenAL)
+Lizenz: GPL/CC-BY-SA
+Seit: 2006
 Status: 0.9
-Einstieg: Leicht
-Mithelfen: Gesucht werden Programmierer, Grafiker und 3D-Model Designer sowie Level Designer. Es gibt seperate Repositories Programmcode,  Tracks (Rennstrecken), Models (Autos), Add-ons (Erweiterungen) und Media (Musik)
-Spenden: http://supertuxkart.sourceforge.net/donate.php
-
+Mithelfen: programmieren, Musik, Grafiken, 3D-Modelle und Levels erstellen
 
 Supertux Kart ist ein von Mario Kart (1992) inspiriertes Rennspiel: Bis zu vier Spieler können gleichzeitg an einem Computer gegeneinander ein Go-Kart Rennen fahren (SplitScreen). Die Kamera "klebt" hinter dem Auto (3rd person view). Die Fahrer sind Maskottchen aus der Welt der freien Software, z.B. Tux das Linux-Maskottchen, das BSD-Teufelchen oder das Blender-Äffchen. Die 3D-Rennstrecken sind bunt und farbenfroh gestaltet und orientieren sich oft an Themen, z.B. Jungle-Landschaften. Während der Fahrt können Extras aufgesammelt werden, um kurzfristig Vorteile zu erlangen oder andere Spieler zu verlangsamen. Manche Extras schaden allerdings dem eigenen Spieler. Das Spiel bietet u.a. einen Split-Screen-Modus an, sodass mehrere Spieler gleichzeitig an einem Computer spielen können. Computergegner für Einzelspieler sind vorhanden.
+
+supertuxkart.sourceforge.net

@@ -1,13 +1,13 @@
 Titel: FlightGear
-Spieler: 1
-Technik: 3D-Karte erforderlich. 
-Hardware-Anforderung: Mittel - Hoch
-Sprachen: C++, Nasal
-Lizenz: GPL
-Genre: Flugsimulator
-Website: http://www.flightgear.org/
+Genre: Simulation
 Einstieg: schwer
-seit: 1997
+Spieler: 1
+Grafik: 3D 
+Hardware-Anforderung: moderat
+Sprachen: C++/Nasal
+Lizenz: GPL
+Seit: 1997
 
+FlightGear wird weltweit von Flugenthusiasten programmiert und gespielt und entstand ursprünglich deshalb weil die vorhanden proprietären Flugsimulatoren (z.B. Microsoft Flight Simulator, 1982) mangels frei verfügbarem Source-Code es unmöglich machten, von den Fans gewünschte Verbesserungen und Erweiterungen zu programmieren. Mehrere Flugzeugmodelle können in der 3D Welt geflogen werden, großer Wert wird auf Realismus gelegt. Unzählige Spielmodi, Modifikationen und Spielwelten (Landkarten) stehen zur Verfügung und werden von Fans im Internet erstellt und getauscht.
 
-Flightgear wird weltweit von Flug-enthusiasten programmiert und gespielt und entstand ursprünglich deshalb weil die vorhanden proprietären Flugsimulatoren (z.B. Microsoft Flight Simulator, 1982) mangels frei verfügbarem Source-Code es unmöglich machten, von den Fans gewünschte Verbesserungen und Erweiterungen zu programmieren. Mehrere Flugzeugmodelle können in der 3D Welt geflogen werden, großer Wert wird auf Realismus gelegt. Unzählige Spielmodi, Modifikationen und Spielwelten (Landkarten) stehen zur Verfügung und werden von Fans im Internet erstellt und getauscht.
+flightgear.org

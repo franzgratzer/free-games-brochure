@@ -1,14 +1,12 @@
-Titel: open clonk
-Spieler: 1-16?
-Technik: 2D
-Hardware-Anforderung: Mittel
-Sprachen: 
-Lizenz: Code: ICS, media: cc-by
+Titel: OpenClonk
 Genre: Action
-Website: http://www.openclonk.org/
-seit: 2010
-Status: 6.1
-Einstieg: Mittel
+Einstieg: normal
+Spieler: 1-16?
+Grafik: 2D
+Hardware-Anforderungen: moderat
+Lizenz: ICS/CC-BY
+Seit: 2010
+Version: 6.1
 Mithelfen: Spiele bauen, zeichnen, programmieren
 
 OpenClonk ist die freie Version des ehemals kommerziellen Spiels Clonk 
@@ -18,3 +16,5 @@ Shchießspiel) möglich sind. Ähnlich wie bei
 Minecraft gib es verschiedene Materialien mit unterschiedlichen 
 Eigenschafen; durch lockeres Erdreich kann man sich z.B. 
 durchgraben. OpenClonk besticht durch schöne, zoombare handgezeichnete Grafiken und eine eifrige Community, welche ständig neue Maps und Spielvarianten erstellt.
+
+openclonk.org

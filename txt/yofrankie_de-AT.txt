@@ -1,14 +1,15 @@
 Titel: Yo Frankie!
+Genre: Jump and Run
+Einstieg: normal
 Spieler: 1
-Technik: 2D 
-Hardware-Anforderung: Mittel
-Sprachen: Blender, CrystalSpace
-Lizenz:  GPL / CC-BY
-Genre: 3D Plattform Jump and Run
-Website: http://xmoto.tuxfamily.org/
-seit: 2008
-Status: 1.1
-Einstieg: Mittel
-Mithelfen: Blender, 3D-Modelle, Programmieren.
+Grafik: 3D 
+Hardware-Anforderungen: moderat
+Technik: Blender/CrystalSpace
+Lizenz: GPL/CC-BY
+Seit: 2008
+Version: 1.1
+Mithelfen: 3D-Modelle erstellen, programmieren
 
 Yo Frankie entstand vom Blender Institute um die Spiele-Leistung der freien 3D-Software Blender zu verbessern. Die Charaktere des Spiels entstammen dem Blender Film "Big Buck Bunny". Sämtliche Resourcen des Spiels (Programmcode, 3D Objekte, Texturen etc.) stehen frei zur Verfügung und können innerhalb von Blender bearbeitet werden. Im Spiel steuert man den Hauptcharakter laufend und springend durch große, schön gerenderte 3D Welten.
+
+xmoto.tuxfamily.org

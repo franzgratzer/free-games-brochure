@@ -1,14 +1,15 @@
 Titel: Supertux
+Genre: Jump and Run/Action
+Einstieg: leicht
 Spieler: 1
-Hardware-Anforderung: Gering
-Technik: 2D 
-Sprachen: C++, SDL, OpenAL, OpenGL
-Lizenz: Code: / CC-BY-SA
-Genre: Jump and Run, Action (20%), Side-Scroller
-Website: https://supertux.github.io/
-seit: 2005
-Status: 0.3.5
-Einstieg: Leicht
-Mithelfen: Testen: Fehler melden auf Github Programmieren, mitarbeiten im Wiki
+Grafik: 2D
+Hardware-Anforderungen: gering 
+Sprachen: C++ (SDL/OpenAL/OpenGL)
+Lizenz: CC-BY-SA
+Seit: 2005
+version: 0.3.5
+Mithelfen: programmieren, testen und Fehler melden, mitarbeiten im Wiki
 
-Supertux ist ein Geschicklichkeits / Hpüfspiel, inspiriert von Nintentos Super Mario Bros. Spielen (1985). Der Spieler steuert Das Linuxmaskottchen Tux, den Pinguin, durch eine eisige Welt voller Münzen zum Aufsammeln und Gegner zum Ausweichen / darüber hüpfen. Wie bei allen Side-Scrollern sieht man die Spielfigur von der Seite. Generell läuft/hüpft Tux von links nach rechts durch einen mehrere Bilschirme breiten, scrollenden Level. Durch Power-Ups kann Tux kurzzeitig Gegner besser bekämpfen bzw. sich besser im Level bewegen. Zwischen den Leveln wechselt Supertux auf eine 2D-Übersichtskarte in der Draufsicht, auf der man zum nächsten Level reist.
+Supertux ist ein Geschicklichkeits/Hpüfspiel, inspiriert von Nintentos Super Mario Bros. Spielen (1985). Der Spieler steuert Das Linuxmaskottchen Tux, den Pinguin, durch eine eisige Welt voller Münzen zum Aufsammeln und Gegner zum Ausweichen/darüber hüpfen. Wie bei allen Side-Scrollern sieht man die Spielfigur von der Seite. Generell läuft/hüpft Tux von links nach rechts durch einen mehrere Bilschirme breiten, scrollenden Level. Durch Power-Ups kann Tux kurzzeitig Gegner besser bekämpfen bzw. sich besser im Level bewegen. Zwischen den Leveln wechselt Supertux auf eine 2D-Übersichtskarte in der Draufsicht, auf der man zum nächsten Level reist.
+
+supertux.github.io

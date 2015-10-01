@@ -1,15 +1,15 @@
 Titel: Flare
-Spieler: 1
-Technik: Iso-3d
-Hardware-Anforderung: Mittel-Hoch
-Sprachen: python, blender, 
-Art: 2d, 3d
-Lizenz: Code: GPL Art: cc-by-sa
-Genre: Action-Role-playing game 
-Website: http://flarerpg.org/
-seit: 2013
-status: 0.19
+Genre: Action/Rollenspiel
 Einstieg: leicht
-Mithelfen: übersetzten, zeichnen, story, level-design, programmieren, artwork
+Spieler: 1
+Grafik: 2D (isometrisch)
+Hardware-Anforderungen: moderat
+Technik: Python/Blender
+Lizenz: GPL/CC-BY-SA
+Seit: 2013
+Version: 0.19
+Mithelfen: programmieren, designen, schreiben, übersetzten
 
 Flare ist eine "free/libre Action Role Playing Engine" zur Erzeugung von Action-RPG-Games ähnlich der Diablo Serie (1996). Der Name wurde gewählt um Support von RM Stallman zu bekommen, welcher sich weigerte ein "Open-Source" Spiel zu unterstützen. Teile des Spiels und der Grafik wurden via Kickstarter-Kampagnen finanziert. Gespielt wird in (pausierbarer) Echtzeit, die Spielewelt wird in einer Isometrischen Perspektive gezeigt (2.5D, Pseudo-3D). Der Spieler kontrolliert nur einen einzigen Charakter, "kämpft" (per Mausklick) gegen Horden von Computergegnern, sammelt Schätze und verbesert im Laufe des Siels seine Ausrüstung und seine Attribute und Fähigkeiten.
+
+flarerpg.org

@@ -1,0 +1,32 @@
+*Genre:
+Action
+Aufbau
+Denkspiel
+Ego-Shooter
+Geschicklichkeit
+Jump and Run
+Lernspiel
+Puzzle
+Rennspiel
+Rollenspiel (roguelike)
+Sandbox
+Simulation
+Strategie
+Taktik
+(rundenbasiert)
+
+*Einstieg:
+leicht
+normal
+schwierig
+
+*Hardware-Anforderungen:
+gering
+moderat
+groß
+
+*Grafik:
+Text
+2D
+3D
+(isometrisch/hexagonal)

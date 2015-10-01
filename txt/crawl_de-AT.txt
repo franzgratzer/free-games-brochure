@@ -1,14 +1,15 @@
 Titel: Crawl (Dungeon Crawl Stone Soup)
+Genre: Rollenspiel (rundenbasiert)
+Einstieg: schwer
 Spieler: 1
-Technik: Im Textmodus, in 2D-Grafik oder im Webbrowser spielbar
-Hardware-Anforderung: gering
-Sprachen: Lua
-Art: 2D
-Lizenz: GPL, CreativeCommons (Artwork)
-Genre: rogue-like, RPG
-Website: https://crawl.develz.org/
-seit: 1995
-Einstieg: Schwer
-Mithelfen: Maps design, PixelArt, Texte erfinden, Programmieren 
+Grafik: Text/2D
+Hardware-Anforderungen: gering
+Technik: Lua
+Lizenz: GPL/CC
+Seit: 1995
+Version: 0.16.2
+Mithelfen: programmieren, Mappen, Elemete und Texte kreieren
 
-Ein sehr süchtig machender Einzelspielerspaß: Wie bei allen rogue-likes muss der Spieler immer tiefer in ein zufallsgeneriertes Labyrinth (Dungeon), welches in der Draufsicht gezeigt wird, hinabsteigen um immer stärkere Monster zu besiegen, Fallen auszuweichen und immer bessere Ausrüstung zu finden. Spielziel ist es, mindestens 3 schwer bewachte Runen zu finden und lebend wieder an die Oberfläche zurückzubringen. Dungeon Crawl legt sehr viel Wert auf Spielerkomfort: Das Spiel ist mit Maus und sehr wenigen Tastenkombinationen bequem spielbar. Der Reiz liegt in der ständigen Neukombination aus Spieler-Rasse, Startberuf (Klasse) und gewählter Religion. Rasse, Klasse und Religion bieten jeweils spezifische Vor- und Nachteile, die sich stark auf das Spiel auswirken. Da alle Monster, Schätze und Dungeons zufällig ausgewürfelt werden gibt es im Spiel auch nach jahrelangem spielen Neues zu entdecken. Wie bei rogulikes üblich läuft das Spiel rundenbasiert ab und es gibt nicht die Möglichkeit, nach Ableben der Spielfigur einen älteren Spielstand zu laden. 
+Ein sehr süchtig machender Einzelspielerspaß: Wie bei allen roguelikes muss der Spieler immer tiefer in ein zufallsgeneriertes Labyrinth (Dungeon), welches in der Draufsicht gezeigt wird, hinabsteigen um immer stärkere Monster zu besiegen, Fallen auszuweichen und immer bessere Ausrüstung zu finden. Spielziel ist es, mindestens 3 schwer bewachte Runen zu finden und lebend wieder an die Oberfläche zurückzubringen. Dungeon Crawl legt sehr viel Wert auf Spielerkomfort: Das Spiel ist mit Maus und sehr wenigen Tastenkombinationen bequem spielbar. Der Reiz liegt in der ständigen Neukombination aus Spieler-Rasse, Startberuf (Klasse) und gewählter Religion um spezifische Vor- und Nachteile zu erwirken. Da alle Monster, Schätze und Dungeons zufällig ausgewürfelt werden gibt es im Spiel auch nach jahrelangem spielen Neues zu entdecken. Das Spiel läuft rundenbasiert ab und es gibt nicht die Möglichkeit, nach Ableben der Spielfigur einen älteren Spielstand zu laden.
+
+crawl.develz.org
