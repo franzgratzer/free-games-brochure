@@ -1,0 +1,14 @@
+Titel: Mirrormagic
+Spieler: 1
+Hardware-Anforderung: gering
+Technik: 2D
+Sprachen: C
+Lizenz: GPL
+Genre: Denkspiel
+Website: artsoft.org/mirrormagic
+seit: 1996
+Status: fertig
+Mithelfen: Leveleditor
+Einstieg: Leicht
+
+Wie beim C 64-Spiel "Deflektor" (1987) oder bem Amiga-Spiel "Mindbender" (1989) muss in MirrorMagic durch drehen von Spiegeln ein reflektierender Lichtstrahl zum Ziel gelenkt werden. Ziel ist es herauszufinden wie der Lichtstrahl um Hindernisse herum  geführt werden kann um schließlich das Ziel, einen Energiebehälter zu treffen, welcher den Weg zum nächsten Level öffnet. Es gibt kein Zeitlimit, allerdings kann der Lichtstrahl überhitzen wenn er zu lange auf die Lichtquelle reflektiert wird. Im Spiel ist einfach zu bedienender Leveleditor enthalten.

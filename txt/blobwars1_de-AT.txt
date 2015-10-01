@@ -1,14 +1,15 @@
 Titel: Blob Wars Episode 1
 Spieler: 1
 Technik: 2d
-Auflösung 
+Hardware-Anforderung: Gering
+Genres: Action
 Sprachen: c++
 Art: 2d
 Lizenz: Code: GPL 
-Genre: Plattformer 
 Website: http://sourceforge.net/projects/blobwars/
 seit: 2011
 status: fertig
-Mithelfen: 
+Einsieg: Leicht
+Mithelfen: Das Spiel biete nur 2 verschiedene (aber sehr große) Level und fordert dazu auf, eigene Level zu erstellen.
 
-Ein Hüpf/Schießspiel (Plattformer, Jump and Run): Der Spieler ist ein Pacman-ähnlicher Gelber "Blob" und muss komplexe Level erforschen, Waffen aufsammeln, unzähligen Gegnern und Fallen ausweichen um Schlüssel zu finden un um gefangene Blobs zu befreien. In Unterwasserabschnitten verschäft ein begrenzter Luftvorrat die Spielschwierigkeit.
+Blob Wars ist ein 2D Hüpf/Schießspiel (Plattformer, Jump and Run): Der Spieler ist ein Pacman-ähnlicher gelber "Blob" und muss komplexe Level erforschen und seine gefangen Freunde retten. Unzählige Computergegner stellen sich ihm in den Weg, außerdem sind die großen Level voller gefährlicher Abgründe, verschlossener Türen, Teleporter, Fallen und Unterwasser-Höhlen. Schlüssel und Extrawaffen können gefunden werden. Das übertrieben kriegerische Spiel (rotes Stirnband, spektakulär blutrote Pixel-Explosioen), "Missed-in-Action"-Blobs sieht sich al Parodie auf den Film Rambo II (1985).

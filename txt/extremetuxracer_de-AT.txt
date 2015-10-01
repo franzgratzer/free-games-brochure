@@ -1,14 +1,13 @@
 Titel: Extreme Tux Racer
 Spieler: 1
 Technik: 3d
-Auflösung 
+Hardware-Anforderung: Mittel
 Sprachen: c++
-Art: 
 Lizenz: GPL
-Genre: Racing-Game, Action
+Genre: Action
 Website: https://sourceforge.net/projects/extremetuxracer/
 seit: 2008
 status: 0.6
-Mithelfen: 
+Einstieg: leicht
 
-Extreme Tux Racer ist ein extrem einfaches Spiel: Helfen Sie Tux, dem Linux-Maskottchen dabei so schnell wie möglich einen vereisten Hang hinunter zu rutschen und Fische zu essen.
+Extreme Tux Racer ist ein extrem einfaches Spiel: Helfen Sie Tux, dem Linux-Maskottchen dabei so schnell wie möglich einen vereisten Gebirgs-Hang hinunter zu rutschen, nicht vom Kurs abzukommen und so viele Fische wie möglich zu essen. Das Spiel bietet mehrere verschiedene Rennstrecken und eine entspannende Musikuntermalung.

@@ -1,14 +1,15 @@
 Titel: Annex: Conquer the World
 Spieler: 1-4
 Technik: 3D-Karte
-Auflösung mindestens: 
-Sprachen: Mega Glest entgine. ?
+Hardware: Mittel-Hoch
+Sprachen: Mega Glest engine
 Art: 3D-Modelle
-Lizenz: Code: GPL. Artwork: CC-BY-SA (creative-commons Share alike)
-Genre: Echtzeitstrategie
-Website: https://libregamewiki.org/Annex:_Conquer_the_World
+Lizenz: GPL / CC-BY-SA
+Genre: Taktik, Action, Strategie
+Website: https://megaglest.org/
 seit: 2014
 status: 4.0
-Mithelfen: 3D-Modelle, Programmieren
+Mithelfen: gesucht werden C++ und Web-Programmierer, Linux-Admins und 3D-Modeler
+Einstieg: Leicht
 
-Annex ist ein "Anime-themed" Real-Time-Strategy Game (Echtzeit-Taktik) mit 4 verschiedenen Fraktionen. ZwischensResourcenabbaou sowie Forschung (Tech-Tree) sind im Spiel enthalten. um mehr Einheiten zu rekrutieren und bessere Gebäude bauen zu können. In den besseren Gebäuden kann Forschung betrieben werden und noch fortschrittlichere Einheiten prodozieren zu können. Die Einheiten werden für Angriff, Verteidiung, Erforschung und Rohstoffabbau benötigt.
+Annex ist ein "Anime-themed" Echtzeit-Taktik-Spiel (RTS, Real-time-strategy) mit 4 verschiedenen magischen Fraktionen und schöner 3D-Grafik. Es ist thematisch an Warcraft 3 (2003) orientiert. Neben Kämpfen sind auch Resourcenabbau (4 verschiedene Resourcen) sowie Forschung (Tech-Tree) im Spiel enthalten. Wie bei allen RTS Spielen baut man Resourcen ab um mehr Einheiten (diverse Fantasy Truppentypen, vom Bogenschützen bis zum Drachenreiter) und bessere Gebäude kaufen zu können. In den besseren Gebäuden (welche per Forschung freigeschaltet werden müssen) können teure, aber kampfstarke Elite-Einheiten produziert werden können. Das Spiel glänzt vor allem bei den taktischen Kämpfen mit schönen 3D-Grafikeffekten und Lichteffekten für magische Waffen und Explosionen. 

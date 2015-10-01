@@ -1,11 +1,13 @@
 Titel: frets on fire
 Spieler: 1
 Technik: 2d
+Hardware-Anforderung: Gering
 Sprachen: Python, Pygame, SDL
 Lizenz: GPL
-Genre: Geschicklichkeitsspiel
+Genre: Action
 Website: http://fretsonfire.sourceforge.net/
 seit: 2008
+Einstieg: Leicht
 
 
-Ein freier Nachbau der "Guitar-Hero" Musikspiele. Es geht darum, im richtigen Moment eine von 4 Tasten zu drücken. Das Keyboard kann dabei verkehrt gehalten werden, wie bei einem Luftgitarrenspieler.
+Ein freier Nachbau der "Guitar-Hero" (2005) Musikspiele. Es geht darum, im richtigen Moment eine von 4 Tasten zu drücken und wieder loszulassen. Das Keyboard kann dabei verkehrt gehalten werden, wie bei einem Luftgitarrenspieler. Unterschiedliche (frei lizensierte) Musikstücke werden mitgeliefert bzw. sind auf der Website zum Download erhältlich. 
