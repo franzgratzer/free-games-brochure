@@ -1,13 +1,14 @@
 Titel: BZFlag
 Spieler: 1-64
 Technik: OPEN-GL 3D-Karte erforderlich. 
-Auflösung mindestens: 
+Hardware-Anforderung: Gering-Mittel
 Sprachen: C++, C, (PHP)
 Art: 3D-Modelle
 Lizenz: GPL
-Genre: online Multiplayer 3D Tank shooter
+Genre: Ego-Shooter
 Website: http://bzflag.org/
 seit: 2001
+Einstieg: Leicht
 status: alpha
 
-BZFflag ist ein online-multiplayer Shooter, wobei die Spieler nicht Soldaten steuern sondern kleine Polygon-Panzer, ähnlich dem Klassiker "Battlezone". Mehrere Parteien spielen in einer abstrakten 3D-Grafik gegeneinander. Die Panzer können sich gegenseitig abschießen oder Flaggen aufsammeln und ins gegnerische Tor tragen. Je nach Spielvariante git es aufsammelbare Extras, die (meist positivie) Spezialfähigkeiten verleihen. Die Panzer können auch springen um höher gelegene Ebenen zu erreichen, sind im Sprung aber sehr verwundbar.
+BZFflag ist ein online-multiplayer Ego-Shooter, wobei die Spieler nicht Soldaten steuern sondern kleine Polygon-Panzer, ähnlich wie im Klassiker "Battlezone" (1980). Mehrere Parteien spielen in einer abstrakten 3D-Grafik gegeneinander. Die Panzer können nicht nur fahren, sondern auch hüpfen, um höher gelegene Plattformen und Wege zu erreichen. Während dem Sprung sind die Panzer nicht steuerbar und daher sehr verwundbar. Die Panzer können sich gegenseitig abschießen sowie Flaggen aufsammeln und ins gegnerische Tor tragen. Je nach Spielvariante git es aufsammelbare Extras, welche (meist positive, aber nur temporäre) Spezialfähigkeiten verleihen: Der eigene Panzer feuert und fährt schneller, bekommt Lenkraketen, schrumpft (und ist dadurch schwer zu treffen) oder wird unsichtbar. Auf den Mutliplayer-Servern findet man unzählige von Spielern erstellte 3D-Arenen; teils gigantische Ritterburgen, teils große Baumlandschaften inspiriert vom Film "Avataar", teils abstrakte 3D-Labyrinthe.

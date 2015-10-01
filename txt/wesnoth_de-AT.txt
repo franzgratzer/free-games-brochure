@@ -1,14 +1,16 @@
 Titel: Battle of Wesnoth
-Spieler: 1-2
-Technik: 3D-Karte erforderlich. Veränderte Quake2 3D-engine.
-Auflösung mindestens: 
-Sprachen: C, C++ (engine), Lua (ingame Skripte) 
-Art: 3D-Modelle, Beschreibungstexte
-Lizenz: Code: GPL. Artwork: Creative-Commons
-Genre: Rundentaktik / pausierbare Echtzeit für Aufbau und Forschung
-Website: http://ufoai.sf.net
-seit: 2006
-status: alpha
-Mithelfen: Leveleditor, 3D-Models, Issue Tracker, Übersetzten, 
+Spieler: 1-6
+Technik: 2D
+Hardware-Anforderung: Mittel
+Sprachen: C++/WML
+Lizenzen: GPL 
+Genre: Strategie
+Website: wesnoth.org
+seit: 2003
+Version: 1.12.4
+Einstieg: Mittel
+Mithelfen: programmieren, Levels, Einheiten, Musik,
+Geschichten, übersetzten, ...
 
-UfoAI ist eine Hommage an die XCOM-Spiele der frühen 90er Jahre, welche wiederum von der entsprechenden Fernsehserie aus den 60er Jahren inspieriert wurde. Die Menschheit befindet sich in einem Kampf gegen außerirdische Invasoren. In einer unterirdischen Kommandozentrale verwaltet der Spieler die knappen Resourcen der Menschheit und managt mit stets zu wenig Geld Forschung, Abfangjäger, Radaranlagen und Stütztpunkte. (pausierbare Echtzeit) Durch Abfangen von Ufos können Soldaten zur Absturzstelle geschickt werden, wobei der Spieler eine Gruppe Soldaten (Squad) im taktischen Rundenmodus kontrollieren muss um überlebende Außerirdische zu bekämpfen. Ziel ist es durch erfolgreiche Kämfe, Gefangen nehmen lebender Außerirdischer und Forschung an erbeuteter Außerirdischer Technologie immer bessere Waffen und Raumschiffe bauen zu können und als Menschheit zum Gegenangriff übergehen zu können.
+
+Bei Battle of Wesnothe kauft und bewegt der Spieler  handgezeichnete Fantasy-Figuren in einer scrollbare 2D-Hexfeldkarte. Im Laufe einer Kampagne müssen mehrere Missionen absolviert werden. Jede Mission hat ihre Eigene Spielkarte, überlebende Einheiten mit viel Erfahrung dürfen von Mission zu Mission mitgenommen werden. Bei Kämpfen spielt das Terrain, die Attribute (Fernkamf/Magiefähigkeit) der Einheiten sowie die taktische Aufstellung (umzingelt, Zone of Control) eine große Rolle. Kämfe erstrecken sich oft über mehrere Spielrunden. Je nach Missionsziel müssen Stützpunkte gehalten werden, Städte erobert, Feinder vertrieben oder Helden eskortiert werden. Ein mitgelieferter Karten- und Kampagnen-Editor erlaubt Kreativität, die Story wird in handgezeichneten Bildern weitererzählt.

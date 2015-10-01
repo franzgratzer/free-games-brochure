@@ -1,15 +1,15 @@
 Titel: Supertux Kart
 Spieler: 1-4
 Technik: 3D
-Grafik 3D 3rd-person view
+Hardware-Anforderung: Mittel
 Sprachen: C++, Irrlicht, OpenAL
-Lizenz: Code: GPL Artwork: CC-BY-SA
-Genres: 90% Rennspiel, 10% Taktik 
+Lizenz: GPL / CC-BY-SA
+Genres: Rennspiel, Action, Taktik
 Website: http://supertuxkart.sourceforge.net/
 seit: 2006
 Status: 0.9
-Mithelfen: http://supertuxkart.sourceforge.net/Get_involved,
-Gesucht werden Programmierer, Grafiker und 3D-Model Designer sowie Level Designer. Es gibt seperate Repositories Programmcode,  Tracks (Rennstrecken), Models (Autos), Add-ons (Erweiterungen) und Media (Musik)
+Einstieg: Leicht
+Mithelfen: Gesucht werden Programmierer, Grafiker und 3D-Model Designer sowie Level Designer. Es gibt seperate Repositories Programmcode,  Tracks (Rennstrecken), Models (Autos), Add-ons (Erweiterungen) und Media (Musik)
 Spenden: http://supertuxkart.sourceforge.net/donate.php
 
 

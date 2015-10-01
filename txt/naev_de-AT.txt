@@ -1,11 +1,15 @@
 Titel: Naev
 Spieler: 1
+Hardware-Anforderung: Mittel
 Technik: 2D
 Sprachen: C, Lua
 Lizenz: GPL
-Genre: action
+Genre: action, Trade
 Website: http://naev.org/
 seit: 2011
 Status: 0.6
+Einstieg: Mittel
+Mithelfen: Im Naev Wiki gibt es Anleitungen zum Mithelfen, gesucht werden Programmierer die mit via Github mithelfen und 2D Grafiker 
 
-Ein Weltraum 2D-Shooter mit Hintergrundstory und Missionen.
+Naev ist ein 2D Weltraum-Handels und Kampf-Spiel mit Hintergrundstory und Missionen. Es ist inspiriert vom Amiga Spiel "Escape Velocity" (1996). Naev beeindruckt durch sehr schöne Weltraum-Hintergrundbilder, rasante Weltraum 2D-Kämpfe und eine sich entwickelnde Story
+: das eigene Mutterschiff sowie das Kriegs-Raumschiff wird aufgerüstet, Missionen müssen ausgesucht und absolviert werden. Zwischen den Missionen wird die Hintergrundgeschichte weiter erzählt und der Handels/Wirtschaftsteil bekommt Bedeutung: Unterschiedliche Resourcen können abgebaut / im Kampf von Gegnern aufgesammelt werden und wollen klug investiert werden. Das Spiel ist frei lizensiert (der Code ist auf Sourcefoge und Github), aber via Steam Greenlight und Desura auch über kommerzielle Plattformen erhältlich.

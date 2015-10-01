@@ -1,15 +1,16 @@
 Titel: 8kingdoms
 Spieler: 1-2?
 Technik: 3D-Karte
-Auflösung mindestens: ?
-Sprachen: C++, TCL, SDL-library
+Hardware-Ansprüche: Niedrig-Mittel
+Sprachen: C++, TCL / SDL-library
 Art: 3D-Models, untexturiert
-Lizenz: Code: GPL. 
+Lizenz: GPL. 
 Genre: 3D rundenbasierte Hexfeld Taktik 
 Website: http://kralovstvi.sourceforge.net/index.php
 seit: 2007
 status: 1.1
-Mithelfen: Sourceforge.com
+Mithelfen: Kontaktaufnahme via IRC und Foren auf Sourceforge.com
+Einstieg: Mittel
 
 
-8 Kingdoms ist ein grafisch unkonventionelles rundenbasiertes Taktikspiel. Gespielt wird in einer 3D-Welt, die Texturen der verschiedenen Truppen (Reiter, Bogenschützen etc.) sind allerdings einfärbig, ähnlich wie lackiertes Holzspielzeug. Truppeneinheiten werden über hexagon-Felder bewegt, taktisch kluges Vorgehen wird vom Spiel belohnt.
+8 Kingdoms ist ein grafisch unkonventionelles rundenbasiertes Taktikspiel. Gespielt wird in einer 3D-Welt, die Texturen der verschiedenen Truppen (Reiter, Bogenschützen etc.) sind einfärbig texturiert, ähnlich wie lackiertes Holzspielzeug. Truppeneinheiten werden über Hexagon-Felder bewegt, taktisch kluges Vorgehen wird vom Spiel belohnt. Die Mischung aus 3D-Grafik bei den Gefechten, Hexfeld-Taktik und Bauklötzchen-Optik ist anfangs gewöhnungsbedürftig aber sehr charmant und erlaubt taktischen Tiefgang. Wettereffekte spielen im Kapmf ebenso eine Rolle wie magische Waffen, Belagerungsgerät, Erfahrungsstufe der Einheiten und das ökonomische Management der Truppen.
