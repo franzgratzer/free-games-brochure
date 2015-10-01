@@ -1,0 +1,6 @@
+Titel: Trigger Rally
+Genre: Rennspiel Spieler: 1 Technik: 3D, 800x600 Programmierung: C++ Lizenz: GPL Seit: 2004 Status: 0.6.3 Mithelfen: Strecken, 3D Auto-Modelle, Sprites, Texturen, Programmierung
+Website: http://trigger-rally.sourceforge.net/
+
+Trigger Rally ist ein performantes Offroad-Rallyspiel mit einer drift-fä­hi­gen Fahrphysik, die von 16 Unter­grund­ma­­te­ri­al­ien beeinflusst wird. Spieler müssen in der richtigen Rei­hen­folge Check­punkte passieren und das Ziel rechtzeitig er­rei­chen. Jen­seits von Einzelrennen müssen in Events meh­­re­re Rennen nach einander erfolgreich absolviert werden. Hinzu kommen Bedingungen wie Schnee, Re­gen und Nebel. Mit Autos aus drei Leistungsklassen können über 150 Ren­nen in einer großen Bandbreite von Land­schaften absol­viert werden. Von Wüsten, hügeligen Wiesen, Wäldern, Stein­brü­chen, Matschlöchern und zugefrorenen Bergen bis hin zu abstrakten Testlandschaften oder anderen Planeten fin­den sich zahlreiche Landschafts-Variationen.
+Neue Strecken können leicht über die Be­ar­bei­tung von XML-Dateien und Pixelbildern angelegt wer­den. Weil Karten naht­los wiederholt werden, kann beliebig weit in jede Rich­tung gefahren werden.
