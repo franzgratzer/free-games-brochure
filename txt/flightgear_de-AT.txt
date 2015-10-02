@@ -3,7 +3,7 @@ Genre: Simulation
 Einstieg: schwer
 Spieler: 1
 Grafik: 3D 
-Hardware-Anforderung: moderat
+Hardware-Anforderungen: moderat
 Sprachen: C++/Nasal
 Lizenz: GPL
 Seit: 1997
